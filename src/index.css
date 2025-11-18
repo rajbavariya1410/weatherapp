@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-image: url("https://images.pexels.com/photos/2531709/pexels-photo-2531709.jpeg?cs=srgb&dl=pexels-roacunha-2531709.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
